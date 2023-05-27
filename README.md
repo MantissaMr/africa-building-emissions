@@ -6,6 +6,3 @@ Through this project, the ten most populous African countries are visualized in 
 ## Tableau Dashboard
 https://public.tableau.com/views/TheClimateCostofFuelUseinAfricanBuildings/EmissionDashboard
 
-## Article
-
-
